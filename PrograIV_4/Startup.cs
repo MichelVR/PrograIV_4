@@ -1,8 +1,6 @@
-﻿using Microsoft.Owin;
-using Owin;
+﻿using Owin;
 
-[assembly: OwinStartupAttribute(typeof(PrograIV_4.Startup))]
-namespace PrograIV_4
+namespace IdentitySample
 {
     public partial class Startup
     {
